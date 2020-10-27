@@ -14,5 +14,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
   name     = "myTFResourceGroup"
-  location = "westus1"
+  location = "westus2"
 }
